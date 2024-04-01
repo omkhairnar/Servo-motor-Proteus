@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\SERVOGOA 1.obj" 
+TO ".\Objects\SERVOGOA" 
+PRINT(".\Listings\SERVOGOA.m51")
